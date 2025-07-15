@@ -23,7 +23,7 @@ this paper introduces a practical yet deeply structured framework for enhancing 
 ## 📎 Paper
 
 - 📄 **Download Full Paper (PDF)** → [`MirrorMind_The_Definitive_Edition.pdf`](./MirrorMind_The_Definitive_Edition.pdf)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15921374.svg)](https://doi.org/10.5281/zenodo.15921374)
 ---
 
 ## 🧪 Case Studies (Fully Reproducible)
