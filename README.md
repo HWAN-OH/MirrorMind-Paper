@@ -1,7 +1,7 @@
 # MirrorMind: A Research Trilogy on Human-AI Co-Evolution
 
 <p align="center">
-  <img src="https://storage.googleapis.com/gemini-prod/images/2024/7/18/69591461-1271-464a-939e-e31448b1d960.png" alt="MirrorMind Banner" width="750"/>
+  <img src="https://storage.googleapis.com/gemini-prod/images/2024/7/18/69591461-1271-464a-939e-e31448b1d960.png" alt="MirrorMind Fractal Extension Banner" width="750"/>
 </p>
 
 ---
@@ -46,6 +46,26 @@ The MirrorMind research is presented as a trilogy, with each part building metho
 
 ---
 
+## 🙋 About the Author
+
+**Sunghwan Oh** Managing Director, HD Hydrogen  
+Former Strategy Lead, Hydrogen at SK Group  
+Vision Architect behind MirrorMind AI Ecosystem  
+[**LinkedIn Profile**](https://www.linkedin.com/in/shoh1224/)
+
+---
+
+## 📬 Contact
+
+Feel free to reach out for collaboration, academic inquiries, or feedback.
+
+> **Email:** `hawn21@gmail.com`  
+> **GitHub:** [@HWAN-OH](https://github.com/HWAN-OH)
+
+---
+
+> ### _"We are not just using AI. We are learning how to become its guide."_  
+> — Sunghwan Oh
 
 ---
 
@@ -58,25 +78,4 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
 If you use this work in your research, please cite the papers directly using their respective DOIs or links. For a general citation of the framework, you may use:
 
 ```
-
-## 🙋 About the Author
-
-**Sunghwan Oh**  
-Managing Director, HD Hydrogen  
-Former Strategy Lead, Hydrogen at SK Group  
-Vision Architect behind MirrorMind AI Ecosystem  
-[LinkedIn Profile](https://www.linkedin.com/in/shoh1224/)
-
----
-
-## 📬 Contact
-
-Feel free to reach out for collaboration, academic inquiries, or feedback.
-
-> Email: `hawn21@gmail.com`  
-> GitHub: [@HWAN-OH](https://github.com/HWAN-OH)
-
----
-
-> _"We are not just using AI. We are learning how to become its guide."_  
-> — Sunghwan Oh
+Oh, S.H. (2025). The MirrorMind Trilogy: A Framework for Human-AI Co-Evolution. GitHub Repository. [https://github.com/HWAN-OH/MirrorMind-Paper](https://github.com/HWAN-OH/MirrorMind-Paper)
