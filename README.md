@@ -22,7 +22,7 @@ this paper introduces a practical yet deeply structured framework for enhancing 
 
 ## 📎 Paper
 
-- 📄 **Download Full Paper (PDF)** → [`MirrorMind_The_Definitive_Edition.pdf`](./MirrorMind_ A Formal Architecture for Controllable Cognitive Augmentation and a Recursive Protocol for Human-AI Co-Creation.pdf)
+ **Download Full Paper (PDF)** → [MirrorMind: The Definitive Edition (PDF)](https://doi.org/10.5281/zenodo.15921374)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15921374.svg)](https://doi.org/10.5281/zenodo.15921374)
 ---
 
