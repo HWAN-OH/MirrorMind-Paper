@@ -1,7 +1,7 @@
 # MirrorMind: A Research Trilogy on Human-AI Co-Evolution
 
 <p align="center">
-  <img src="https://storage.googleapis.com/gemini-prod/images/2024/7/18/69591461-1271-464a-939e-e31448b1d960.png" alt="MirrorMind Fractal Extension Banner" width="750"/>
+  <img src="https://github.com/user-attachments/assets/3b0071b6-9f3a-4cba-9e27-275d9f6605b3" alt="MirrorMind Fractal Extension Banner" width="750"/>
 </p>
 
 ---
@@ -38,14 +38,6 @@ The MirrorMind research is presented as a trilogy, with each part building metho
 
 ---
 
-## Core Philosophy
-
-* **Human-Centric by Design:** The human user (U) is always the central commander, not a passive operator. The AI serves human intent, not the other way around.
-* **First Control, Then Evolve:** We reject the "move fast and break things" approach. Stability and controllability are the necessary foundation for any meaningful evolution.
-* **From Individual to Collective:** The same core principles that govern a successful human-AI partnership can be scaled to understand and improve the dynamics of entire organizations.
-
----
-
 ## 🙋 About the Author
 
 **Sunghwan Oh** Managing Director, HD Hydrogen  
@@ -78,4 +70,4 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
 If you use this work in your research, please cite the papers directly using their respective DOIs or links. For a general citation of the framework, you may use:
 
 ```
-Oh, S.H. (2025). The MirrorMind Trilogy: A Framework for Human-AI Co-Evolution. GitHub Repository. [https://github.com/HWAN-OH/MirrorMind-Paper](https://github.com/HWAN-OH/MirrorMind-Paper)
+Oh, S.H. (2025). The MirrorMind Trilogy: A Framework for Human-AI C
